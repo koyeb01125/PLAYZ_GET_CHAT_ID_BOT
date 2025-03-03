@@ -2,13 +2,13 @@
   <img src="https://telegra.ph/file/014d967eab622032e2b46.jpg" width="100" height="100">
 </p>
 
-#PLAYZ_CHAT_ID_FOUNDER_BOT
+# Get_Chat_ID_Bot
 
 ## Description
 
 A bot to receive the ID of every Telegram chat.
 
-_Check out our bot [here](https://t.me/PLAYZ_CHAT_ID_FOUNDER_BOT)._
+_Check out our bot [here](https://t.me/GetChatID_IL_BOT)._
 
 
 ## Setup
@@ -57,6 +57,6 @@ Clone the repository to your local machine. Then, build the Docker image using t
 
 ## Credits
 
-This project was created by [PLAY-Z HACKING](https://t.me/PLAYZ_HACKING).
+This project was created by [PLAY-Z 90](https://t.me/PLAYZ_90).
 
 ---
